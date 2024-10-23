@@ -144,7 +144,7 @@ This tool is for educational and personal use only. Please respect YouTube's ter
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact by email `sc.lai.simon@gmail.com`.
+For support, please open an issue in the GitHub repository or contact by email `f88083@gmail.com`.
 
 ---
 Created by SimonLai23 - Feel free to contact me!
