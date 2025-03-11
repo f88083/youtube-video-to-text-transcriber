@@ -1,4 +1,4 @@
-# YouTube Audio Processor
+# Youtube Video-to-Text Transcriber
 
 A Python application that allows you to download YouTube videos as audio files and transcribe them to text using OpenAI's Whisper model. This tool offers flexible options for processing YouTube content, whether you want to save the audio locally, get a transcription, or both.
 
