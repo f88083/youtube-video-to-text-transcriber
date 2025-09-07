@@ -36,8 +36,8 @@ A Python application that allows you to download YouTube videos as audio files a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/youtube-audio-processor.git
-cd youtube-audio-processor
+git clone https://github.com/f88083/youtube-video-to-text-transcriber.git
+cd youtube-video-to-text-transcriber
 ```
 
 2. Install required packages:
