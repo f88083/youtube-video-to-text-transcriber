@@ -16,7 +16,7 @@ pipreqs==0.4.13
 platformdirs==4.3.6
 pydantic==2.9.2
 pydantic_core==2.23.4
-pytubefix==8.1.1
+pytubefix==9.5.0
 requests==2.32.3
 sniffio==1.3.1
 tqdm==4.66.5
